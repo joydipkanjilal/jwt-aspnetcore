@@ -5,7 +5,9 @@ To clone this repository, create a folder in your computer where you would like 
 
 git clone https://github.com/joydipkanjilal/jwt-aspnetcore.git 
 
-Follow the steps outlined below to start the application:
+
+
+To run this application in your computer, follow the steps outlined below to start the application:
 
 1. Launch Visual Studio in your system
 2. Click File -> Open -> Project/Solution...
