@@ -1,0 +1,245 @@
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\appsettings.json
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.exe
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.deps.json
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.runtimeconfig.json
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.runtimeconfig.dev.json
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ref\CodeMagazineMVCDemo.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.pdb
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.Views.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.Views.pdb
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Humanizer.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.AssemblyInfoInputs.cache
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.AssemblyInfo.cs
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.csproj.CoreCompileInputs.cache
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.RazorAssemblyInfo.cache
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.RazorAssemblyInfo.cs
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\staticwebassets\CodeMagazineMVCDemo.StaticWebAssets.Manifest.cache
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\staticwebassets\CodeMagazineMVCDemo.StaticWebAssets.xml
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\scopedcss\bundle\CodeMagazineMVCDemo.styles.css
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.TagHelpers.input.cache
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.TagHelpers.output.cache
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.RazorCoreGenerate.cache
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\Home\MainWindow.cshtml.g.cs
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.RazorTargetAssemblyInfo.cache
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.RazorTargetAssemblyInfo.cs
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.Views.pdb
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.csproj.CopyComplete
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\ref\CodeMagazineMVCDemo.dll
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.pdb
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.genruntimeconfig.cache
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+C:\Workarea\Projects\Research\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.csprojAssemblyReference.cache
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\appsettings.json
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.exe
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.deps.json
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.runtimeconfig.json
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.runtimeconfig.dev.json
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ref\CodeMagazineMVCDemo.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.pdb
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.Views.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\CodeMagazineMVCDemo.Views.pdb
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Humanizer.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.AssemblyInfoInputs.cache
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.AssemblyInfo.cs
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.csproj.CoreCompileInputs.cache
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.RazorAssemblyInfo.cache
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.RazorAssemblyInfo.cs
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\staticwebassets\CodeMagazineMVCDemo.StaticWebAssets.Manifest.cache
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\staticwebassets\CodeMagazineMVCDemo.StaticWebAssets.xml
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\scopedcss\bundle\CodeMagazineMVCDemo.styles.css
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.TagHelpers.input.cache
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.TagHelpers.output.cache
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.RazorCoreGenerate.cache
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\Home\MainWindow.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.RazorTargetAssemblyInfo.cache
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.RazorTargetAssemblyInfo.cs
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.Views.pdb
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.csproj.CopyComplete
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\ref\CodeMagazineMVCDemo.dll
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.pdb
+C:\Workarea\Important Files and Folders\Articles\Code-Magazine\Implementing JWT Authentication in ASP.NET Core 5\Source Code\CodeMagazineMVCDemo\obj\Debug\net5.0\CodeMagazineMVCDemo.genruntimeconfig.cache
